@@ -2,8 +2,9 @@
 
 Deployed Webpage Link: https://mannan-b.github.io/spreadsheet-ui/
 
-This webpage is a pixel close version of https://www.figma.com/design/3nywpu5sz45RrCmwe68QZP/Intern-Design-Assigment?node-id=
-2-2535&t=DJGGMt8I4fiZjoIB-1 with major focus on front end design aspect, but keeping no dead ui.
+This webpage is a pixel close version of the following image:  
+<img width="2880" height="2048" alt="assignment" src="https://github.com/user-attachments/assets/18bddb01-b24b-4249-8526-4aab27d79c9c" />
+with major focus on front end design aspect, but keeping no dead ui.
 
 Features included: (i). implemented segregation of orders among all orders, pending, reviewed, arrived
 (ii). all buttons work, either send alerts or actually change the ui
